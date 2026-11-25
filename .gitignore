@@ -1,0 +1,5 @@
+index/
+__pycache__/
+.gradio/
+.ipynb_checkpoints/
+.env
